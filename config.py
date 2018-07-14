@@ -1,8 +1,8 @@
-owner_id = 0
-telegram_token = 'test-token'  # test
+owner_id = 509193641
+telegram_token = '524768301:AAFk8f1gyqdkU8lVgfBoeaXj-mTFh7LRHos'  # test
 # telegram_token = "production-token"  # production
 
-botan_token = "botan-token"
+botan_token = "524768301:AAFk8f1gyqdkU8lVgfBoeaXj-mTFh7LRHos"
 
 session_file = 'session.bin'
 
